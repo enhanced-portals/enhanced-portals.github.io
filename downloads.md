@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enhanced Portals 3 - Downloads
+title: Enhanced Portals 3 Downloads
 ---
 
 ## Downloads
