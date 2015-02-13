@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Getting Started
-permalink: /docs/home/
+permalink: /docs/
 ---
 
 ## Documentation Homepage Test
