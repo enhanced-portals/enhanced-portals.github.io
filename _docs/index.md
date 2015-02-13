@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Welcome
+title: Getting Started
 permalink: /docs/home/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Welcome
+title: Configuration
 permalink: /docs/configuration/
 ---
 
