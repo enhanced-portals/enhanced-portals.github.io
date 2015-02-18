@@ -5,6 +5,7 @@ permalink: /changelog/
 author: all
 ---
 
-{% for post in site.posts %}
+<h3>Changelog</h3>
+{% for changes in site.posts %}
   {% include log-entry.html %}
 {% endfor %}
