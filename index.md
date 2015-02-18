@@ -9,4 +9,4 @@ The subatomic particles of life and space are now easily manipulated. We have le
 
 Enhanced Portals brings a richer experience than the vanilla obsidian frames. Transport players, mobs, animals, items, fluids, even energy to anywhere, whether it be 10,000m away, in the Nether, the Twilight Forest, or any other dimension. Link them together on a network or use them to dial other portals. Use them on your server as thresholds to other worlds or biomes. You can even design complex creations to help with other projects, like a spawner room or minecart system. The portals you design don't even need to be in the shape of a rectangle, make them any shape you want to, as long as it's a closed, flat area.
 
-<img src="img/ep_ss1.jpg" class="img-responsive margin-bottom-15 margin-top-15">
+<img src="{{ site.url }}/img/ep_ss1.jpg" class="img-responsive margin-bottom-15 margin-top-15">
